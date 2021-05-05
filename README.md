@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "grass"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Grass 
+My visual studio code color theme
+## Screenshots
+![grass1](https://user-images.githubusercontent.com/80367947/117100889-e5219f00-adaf-11eb-9aa3-34ac32862a08.png)
+![grass2](https://user-images.githubusercontent.com/80367947/117100906-f5397e80-adaf-11eb-867c-e886e6fc88d4.png)
+### Usage
+Clone this folder and move it to the extension folder for Vscode  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This color theme was created with tmTheme and Yo Code
