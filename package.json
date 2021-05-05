@@ -1,0 +1,21 @@
+{
+    "name": "grass",
+    "displayName": "Grass",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grass",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grass-color-theme.json"
+            }
+        ]
+    }
+}

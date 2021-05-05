@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Grass.tmTheme",
+	"colors": {
+		"editor.background": "#141414",
+		"editorCursor.foreground": "#F8F8F0",
+		"editor.foreground": "#F8F8F2",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#73736E",
+		"editor.selectionBackground": "#49483E"
+	},
+	"name": "Grass"
+}
